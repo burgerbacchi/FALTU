@@ -1,0 +1,3 @@
+Project Jarvis is a new initiative by the search engine giant that goes beyond traditional 
+AI capabilities. Unlike today's AI assistants, which respond to commands, Jarvis is designed 
+to autonomously navigate your web browser, make decisions, and perform tasks on your behalf.
